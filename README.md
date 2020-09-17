@@ -1,6 +1,6 @@
 # restapi-lara
-adalah back-end dari aplikasi biodata simple yang dibangun menggunakan framework laravel.
-Untuk menjalankan, anda harus memiliki aplkasi postman terlebih dahulu.
+adalah back-end dari aplikasi biodata simple yang dibangun menggunakan framework laravel, menggunakan basisdata MySql.
+Untuk menjalankan, anda harus memiliki aplikasi postman terlebih dahulu, dan sudah melakukan konfigurasi database bernama restapi-lara
 
 ### api route beserta fungsinya
 - (get) http:localhost/api/all = untuk melihat index daftar
