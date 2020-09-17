@@ -7,3 +7,6 @@ Untuk menjalankan, anda harus memiliki aplikasi postman terlebih dahulu, dan sud
 - (get) http:localhost/api/biodata/{id} = untuk melakukan get data berdasarkan id
 - (post) http:localhost/api/biodata/ = untuk melakukan posting data disertai json
 - (delete) http:localhost/api/biodata/{id} untuk melakukan hapus data berdasarkan id
+
+##### jika dirasa terlalu berat menggunakan laravel pada mini project ini (overkill),
+maka untuk kedepannya akan dicoba microframeworknya yaitu lumen.
