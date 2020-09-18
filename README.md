@@ -9,4 +9,8 @@ Untuk menjalankan, anda harus memiliki aplikasi postman terlebih dahulu, dan sud
 - (delete) http:localhost/api/biodata/{id} untuk melakukan hapus data berdasarkan id
 
 ##### jika dirasa terlalu berat menggunakan laravel pada mini project ini (overkill),
-maka untuk kedepannya akan dicoba microframeworknya yaitu lumen.
+Maka untuk kedepannya akan dibuat seuah rest api menggunakan microframework bernama Lumen
+
+### Update!
+Sebuah rest-api baru dengan framework Lumen telah dibuat!
+Dibuat bersama frontend dari ReactJs. [link Repo](https://github.com/ArdaBilly1/restapi-lumen)
